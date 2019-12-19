@@ -1,0 +1,9 @@
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.deps.json
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\bin\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.csproj.CoreCompileInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.AssemblyInfoInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.AssemblyInfo.cs
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Common\obj\Debug\netstandard2.0\PeopleViewer.Common.csprojAssemblyReference.cache

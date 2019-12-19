@@ -1,0 +1,12 @@
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\bin\Debug\netstandard2.0\PersonDataReader.Service.deps.json
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\bin\Debug\netstandard2.0\PersonDataReader.Service.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\bin\Debug\netstandard2.0\PersonDataReader.Service.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\bin\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\bin\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.csprojAssemblyReference.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.csproj.CoreCompileInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.AssemblyInfoInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.AssemblyInfo.cs
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.csproj.CopyComplete
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PersonDataReader.Service\obj\Debug\netstandard2.0\PersonDataReader.Service.pdb

@@ -1,0 +1,17 @@
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\bin\Debug\netcoreapp2.2\People.Service.deps.json
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\bin\Debug\netcoreapp2.2\People.Service.runtimeconfig.json
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\bin\Debug\netcoreapp2.2\People.Service.runtimeconfig.dev.json
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\bin\Debug\netcoreapp2.2\People.Service.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\bin\Debug\netcoreapp2.2\People.Service.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\bin\Debug\netcoreapp2.2\PeopleViewer.Common.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\bin\Debug\netcoreapp2.2\PeopleViewer.Common.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.csprojAssemblyReference.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.csproj.CoreCompileInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.RazorAssemblyInfo.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.RazorAssemblyInfo.cs
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.AssemblyInfoInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.AssemblyInfo.cs
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.RazorTargetAssemblyInfo.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.csproj.CopyComplete
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\People.Service\obj\Debug\netcoreapp2.2\People.Service.pdb

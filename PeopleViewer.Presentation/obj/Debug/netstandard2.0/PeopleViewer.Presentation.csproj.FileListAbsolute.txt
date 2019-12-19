@@ -1,0 +1,14 @@
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PeopleViewer.Presentation.deps.json
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PeopleViewer.Presentation.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PeopleViewer.Presentation.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PeopleViewer.Common.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PersonDataReader.Service.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PeopleViewer.Common.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\bin\Debug\netstandard2.0\PersonDataReader.Service.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.csprojAssemblyReference.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.AssemblyInfoInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.AssemblyInfo.cs
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.csproj.CopyComplete
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.dll
+C:\Users\Andrii.Ryzhyi\source\repos\UsingDependencyInjection\PeopleViewer.Presentation\obj\Debug\netstandard2.0\PeopleViewer.Presentation.pdb
